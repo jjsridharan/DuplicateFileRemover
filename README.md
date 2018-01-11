@@ -7,12 +7,13 @@ Usage:
 1) Download or clone DuplicateRemover
 2) Unzip and compile the FileHash java file as 
 
-javac FileHash.java
+   javac FileHash.java
 
 3) Once compiled run the FileHash with path as command line argument
 
-java FileHash "I://Test//"
-
+  java FileHash "I://Test//"
+  
+  Note "//" is for escaping "/". (If you don't know what escaping is, just include / before .)
 
 Applications:
 
