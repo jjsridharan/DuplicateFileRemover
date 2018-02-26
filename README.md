@@ -1,10 +1,10 @@
-# DuplicateRemover
+# DuplicateFileRemover
 Removes all duplicate files (of any format *.*) recursively inside directories.
 
 Usage:
 
 
-1) Download or clone DuplicateRemover
+1) Download or clone DuplicateFileRemover
 
 2) Unzip and compile the FileHash java file as 
 
